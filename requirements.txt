@@ -35,10 +35,10 @@ jsonpatch==1.33
 jsonpointer==3.0.0
 jsonschema==4.26.0
 jsonschema-specifications==2025.9.1
-langchain==0.1.0
-langchain-community==0.0.10
-langchain-core==0.1.41
-langchain-openai==0.1.2
+langchain==0.1.9
+langchain-community==0.0.24
+langchain-core==0.1.26
+langchain-openai==0.0.7
 langchain-text-splitters==0.0.1
 langgraph==1.0.9
 langgraph-checkpoint==4.0.0
@@ -112,5 +112,6 @@ watchdog==6.0.0
 xxhash==3.6.0
 yarl==1.22.0
 zstandard==0.25.0
+
 
 
